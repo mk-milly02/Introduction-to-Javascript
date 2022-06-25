@@ -1,3 +1,1 @@
-alert("My name Jonas Ababio.");
-alert("I am 175cm tall.");
-alert("I am a Ghanaian");
+alert("My name Jonas Ababio. \nI am 175cm tall. \nI am a Ghanaian.");
